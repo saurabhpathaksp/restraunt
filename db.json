@@ -1,0 +1,134 @@
+{
+  "Restaurants": [
+    {
+      "id": "1",
+      "title": "Burger King",
+      "Address": "123 Main St",
+      "Rating": 4.5,
+      "Reviews": 100,
+      "Cuisine": "Fast Food",
+      "Contact": "123-456-7890",
+      "Website": "www.burgerking.com"
+    },
+    {
+      "id": "2",
+      "title": "KFC Restaurant",
+      "Address": "Pune",
+      "Rating": "4",
+      "Reviews": "123",
+      "Cuisine": "Chinese",
+      "Contact": "56890987839",
+      "Website": "www.kfc.com"
+    },
+    {
+      "id": "3",
+      "title": "Dominos",
+      "Address": "Lucknow",
+      "Rating": "4.5",
+      "Reviews": "12345",
+      "Cuisine": "Chinese",
+      "Contact": "9988875567",
+      "Website": "www.dominos.com"
+    },
+    {
+      "id": "4",
+      "title": "Tacobell",
+      "Address": "Delhi",
+      "Rating": "5",
+      "Reviews": "678",
+      "Cuisine": "Chinese",
+      "Contact": "0076477838",
+      "Website": "www.tacobel.com"
+    },
+    {
+      "id": "5",
+      "title": "Subway",
+      "Address": "Amsterdam",
+      "Rating": "3.2",
+      "Reviews": "43",
+      "Cuisine": "American",
+      "Contact": "9992663678",
+      "Website": "www.subway.com"
+    },
+    {
+      "id": "6",
+      "title": "Bengal Restro Bar",
+      "Address": "Kolkata",
+      "Rating": "4.8",
+      "Reviews": "987",
+      "Cuisine": "North Indian",
+      "Contact": "0987654345",
+      "Website": "www.bengalrestobar.com"
+    },
+    {
+      "id": "6",
+      "title": "Lucknowi Andaaj",
+      "Address": "Awadh",
+      "Rating": "4.3",
+      "Reviews": "23432",
+      "Cuisine": "North Indian",
+      "Contact": "638224482",
+      "Website": "www.lucknowiandaaj.com"
+    },
+    {
+      "id": "3",
+      "title": "Punekar",
+      "Address": "Pune",
+      "Rating": "4.0",
+      "Reviews": "456",
+      "Cuisine": "Marathi",
+      "Contact": "08756746664",
+      "Website": "www.kfc.com"
+    },
+    {
+      "id": "9",
+      "title": "Vimanagar",
+      "Address": "Vimannagar Pune",
+      "Rating": "4.3",
+      "Reviews": "234",
+      "Cuisine": "Indian",
+      "Contact": "08438843920",
+      "Website": "www.vimananagr.com"
+    },
+    {
+      "id": "10",
+      "title": "Rameshwaram",
+      "Address": "Bengalauru",
+      "Rating": "4.5",
+      "Reviews": "27474",
+      "Cuisine": "South Indian",
+      "Contact": "6583299120",
+      "Website": "www.Rameshwaram.com"
+    },
+    {
+      "id": "11",
+      "title": "Haldiram",
+      "Address": "Rajashthan",
+      "Rating": "3.2",
+      "Reviews": "7663",
+      "Cuisine": "North Indian",
+      "Contact": "7489938829",
+      "Website": "https://chatgpt.com/"
+    },
+    {
+      "id": "14",
+      "title": "Mondal Bar",
+      "Address": "Bengal Murshidabad",
+      "Rating": "5.2",
+      "Reviews": "78939",
+      "Cuisine": "North Indian",
+      "Contact": "6839937729",
+      "Website": "https://getbootstrap.com/docs/4.0/components/modal/"
+    },
+    {
+      "id": "17",
+      "title": "Local",
+      "Address": "Korgaon Park, Pune",
+      "Rating": "4.5",
+      "Reviews": "567",
+      "Cuisine": "Chinese",
+      "Contact": "6839936682",
+      "Website": "https://localsclub.com"
+    }
+  ]
+}
